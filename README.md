@@ -7,13 +7,13 @@ from [https://data.ontario.ca/dataset/municipal-treated-wastewater-effluent](htt
 
 ## Interactive Tableau Public Story
 
-The dataset was used to create an interactive Tableau Public Story. View the Tableau Story: https://public.tableau.com/views/MunicipalWWTPsAcrossMinistryRegionsOntarioCanada2008-2024/MunicipalTreatedWW_Ontario_Canada_2008-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+The dataset was used to create an interactive Tableau Public Story. View the Tableau Story [here](https://public.tableau.com/views/MunicipalWWTPsAcrossMinistryRegionsOntarioCanada2008-2024/MunicipalTreatedWW_Ontario_Canada_2008-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ---
 
 ## Notebook (in R Language)
 
-A notebook (in R Language) was created here, in Kaggle. View the Kaggle Notebook: https://www.kaggle.com/code/salehireza2083/treated-municipal-wastewater-data-patterns
+A notebook (in R Language) was created here, in Kaggle. View the Kaggle Notebook [here](https://www.kaggle.com/code/salehireza2083/treated-municipal-wastewater-data-patterns)
 
 ---
 
