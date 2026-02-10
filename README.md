@@ -20,4 +20,4 @@ A notebook (in R Language) was created here, in Kaggle. View the Kaggle Notebook
 
 ## SQL Queries in Google BigQuery
 
-View the GitHub SQL Queries: 
+View the GitHub SQL Queries [here](https://github.com/reza-salehi125/treated_municipal_wastewater_ontario_canada_cleaning/blob/main/treated_municipal_wastewater.sql)
